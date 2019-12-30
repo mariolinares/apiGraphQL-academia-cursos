@@ -9,7 +9,7 @@
     "start:dev": "npm run build:dev",
     "build:dev": "nodemon 'src/server.ts' --exec 'ts-node' src/server.ts -e ts,json,graphql"
   },
-  "author": "Anartz Mugika Ledo <mugan86@gmail.com>",
+  "author": "Mario Linares <mariolinaresparra@icloud.com>",
   "license": "MIT",
   "dependencies": {
     "apollo-server-express": "^2.6.7",
